@@ -1,1 +1,1 @@
-echo "web: npm run build" > Procfile
+echo "web: node backend/index.js" > Procfile
